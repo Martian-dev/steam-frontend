@@ -32,7 +32,7 @@ export function Navbar() {
               </NavigationMenuItem>
 
               <NavigationMenuItem>
-                <NavigationMenuTrigger className="text-white hover:text-blue-200 hover:bg-transparent focus:bg-transparent">
+                <NavigationMenuTrigger className="text-white hover:text-blue-200 bg-transparent focus:text-white hover:bg-transparent focus:bg-transparent">
                   Services
                 </NavigationMenuTrigger>
                 <NavigationMenuContent>
